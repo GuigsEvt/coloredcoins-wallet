@@ -1,0 +1,30 @@
+{
+  "name": "OfflineWalletCC",
+  "version": "1.0.0",
+  "description": "Colored coins wallet issue new assets, send bitcoin and tokens",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.1.5",
+    "bitcoinjs-lib": "^1.5.8",
+    "blockchain.info": "^2.6.0",
+    "blockcypher": "^0.2.0",
+    "cc-transaction": "^1.2.0",
+    "crypto": "0.0.3",
+    "blockexplorer-rpc" :"0.0.4",
+    "crypto-hashing": "^1.0.0",
+    "inquirer": "^3.0.1",
+    "json-update": "^3.0.0",
+    "jsonfile": "^2.4.0",
+    "request": "^2.79.0",
+    "secure-conf": "0.0.4",
+	"bip39": "2.2.0",
+	"blocktrail-sdk":"3.0.4"
+
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "guigs",
+  "license": "MIT"
+}

@@ -1,0 +1,15 @@
+# Seed
+data/.seed.json
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables file
+.env
+
+# Remove new address.js from git
+.newAddress.js

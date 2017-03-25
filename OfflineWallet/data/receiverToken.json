@@ -1,0 +1,27 @@
+{
+  "receivers": [
+    {
+    "address": "mhZYLzKvtbfbdX4rnankxk7ZggsYfAR1kv",
+    "amount": 1
+    },
+    {
+    "address": "n3fTyKo1L6QFiLYTEFSLxCE94SDsHShhDy",
+    "amount": 1
+    },
+    {
+    "address": "mudi7FPpwX8nwGimbHQCX3C9h4ryfEndam",
+    "amount": 1
+    },
+    {
+    "address": "n2H6PxSYBJXAYaVzfH9QMV3jmHJyf2RTHB",
+    "amount": 1
+    },
+    {
+    "address": "mnGy1yoLmmhg8PnDZCetmMyuy6eSxc7HLa",
+    "amount": 1
+    },
+    {
+    "address": "mqK5uinwQHVrNHibjoLNSL5LSHcL9SzAhL",
+    "amount": 1
+    }]
+}

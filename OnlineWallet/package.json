@@ -1,0 +1,22 @@
+{
+  "name": "OnlineWalletCC",
+  "version": "1.0.0",
+  "description": "Colored coins wallet to derive node and display state of the addresses",
+  "main": "index.js",
+  "dependencies": {
+  "redis": "^2.6.5",
+  "async": "^2.1.5",
+  "bitcoinjs-lib": "^1.5.8",
+  "bip39": "2.2.0",
+  "blockexplorer-rpc": "0.0.4",
+  "data-storage": "^0.0.14",
+  "inquirer": "^3.0.1",
+  "blocktrail-sdk":"3.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "guigs",
+  "license": "MIT"
+}

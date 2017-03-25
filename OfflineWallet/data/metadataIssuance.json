@@ -1,0 +1,18 @@
+{
+  "assetId": "OBG_M18",
+  "assetName": "Bond M18 Token",
+  "issuer": "Guigs",
+  "description": "Une part de l'obligation Juin 2018",
+  "userData": {
+      "meta" : [
+          {"key": "Nominal", "value": 100000, "type": "Number"},
+          {"key": "Number share", "value": 10, "type": "Number"},
+          {"key": "Price share", "value": 10000, "type": "Number"},
+          {"key": "Rate", "value": 0.05, "type": "Number"},
+          {"key": "Duration", "value": 12, "type": "Number"},
+          {"key": "Mensuality", "value": "Monthly", "type": "String"},
+          {"key": "Beginning", "value": "01/06/2017", "type": "Date"},
+          {"key": "Ending", "value": "01/06/2018", "type": "Date"}
+      ]
+  }
+}
